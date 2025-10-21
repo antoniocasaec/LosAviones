@@ -1,0 +1,11 @@
+Nombre del equipo: Los aviones
+Nombre  numero de cada integran
+Numero 1: Antonio Casa 
+GitHub: antoniocasaec
+Gustos: Ver TV y Trail/Correr
+Numero 2: Dalila Pazmiño
+Gustos: video juegos y ciclismo
+GitHub: DaliPazmino
+Numero 3: Sahid Toapanta 
+GitHub: SahidXDD
+Gustos: ver películas de terror y leer libros.
